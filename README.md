@@ -25,13 +25,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/WEB102-prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/WEB102-preworkvid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kapco 
 
 ## Notes
 
-No particular pressing challenges with implementing the project.
+Issues with uploading gif since I tried to upload by storing in the asset folder but,
+GitHub limits file sizes to under 100MB.
 
 ## License
 
